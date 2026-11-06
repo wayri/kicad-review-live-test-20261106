@@ -23,7 +23,7 @@
       (symbol (lib_id "Demo:R") (at 100 90 0) (unit 1) (in_bom yes) (on_board yes) (dnp no)
         (uuid "c8e6f13d-1e42-5ffc-a3c0-bcf508a7961c")
         (property "Reference" "R1" (at 105 88 0) (effects (font (size 1.27 1.27))))
-        (property "Value" "4.7k" (at 105 91 0) (effects (font (size 1.27 1.27))))
+        (property "Value" "2.2k" (at 105 91 0) (effects (font (size 1.27 1.27))))
         (pin "1" (uuid "ee67f9af-8b0e-5394-ae18-9bd6ba3cadc4")) (pin "2" (uuid "c6b18268-ef74-53e2-9a11-a2be71c8ae4a"))
         (instances (project "sensor" (path "/3042aeeb-6a92-52f7-9fba-675aa81c5960" (reference "R1") (unit 1)))))
       (sheet (at 30 30) (size 20 12) (uuid "a1f04d18-ed6e-51f0-836f-a12c85edeceb")
